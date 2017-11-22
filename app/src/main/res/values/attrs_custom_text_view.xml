@@ -1,0 +1,10 @@
+<resources>
+    <!--name:自定义View的名称 CustomTextView-->
+    <declare-styleable name="CustomTextView">
+        <!--name:属性名称 format:属性模式-->
+        <attr name="exampleString" format="string" />
+        <attr name="exampleDimension" format="dimension" />
+        <attr name="exampleColor" format="color" />
+        <attr name="exampleDrawable" format="color|reference" />
+    </declare-styleable>
+</resources>
